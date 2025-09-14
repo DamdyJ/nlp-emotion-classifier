@@ -36,7 +36,7 @@ streamlit run app.py
 
 The app provides two modes:
 1. **Single Review Analysis** – Input one review text and get predicted emotion scores.  
-2. **Bulk CSV Analysis** – Upload a CSV file of reviews and get distribution of emotions.  
+2. **CSV Analysis** – Upload a CSV file of reviews and get distribution of emotions.  
 
 ---
 
