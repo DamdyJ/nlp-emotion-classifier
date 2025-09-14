@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+# Virtual environment
+venv/
+.env/
+
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+
+# Streamlit cache
+.streamlit/
